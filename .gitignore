@@ -1,1 +1,3 @@
 data/
+*.pth
+weight_pruning/datasets/
