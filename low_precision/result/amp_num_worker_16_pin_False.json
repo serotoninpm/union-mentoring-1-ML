@@ -1,0 +1,1 @@
+{"result": [{"all_training_time": "9m31s", "pre_processing_time": "5m15s", "cpu_to_gpu_time": "31s957ms", "forward_time": "1m50s", "backward_time": "1m18s", "testset_acc": 86.48}]}
